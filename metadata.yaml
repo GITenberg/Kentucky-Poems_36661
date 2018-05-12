@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2531
     wikipedia: http://en.wikipedia.org/wiki/Madison_Julius_Cawein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36661#Kentucky-Poems
 gutenberg_issued: '2011-07-09'
 gutenberg_type: Text
 identifiers:
