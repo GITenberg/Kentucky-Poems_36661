@@ -1,0 +1,41 @@
+_repo: Kentucky-Poems_36661
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund W. (Edmund William)
+    - Gosse, Edmund William, Sir
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cawein, Madison Julius
+    alias: Cawein, Madison J.
+    birthdate: 1865
+    deathdate: 1914
+    gutenberg_agent_id: '2531'
+    url: http://www.gutenberg.org/2009/agents/2531
+    wikipedia: http://en.wikipedia.org/wiki/Madison_Julius_Cawein
+description: ''
+gutenberg_issued: '2011-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, American -- Kentucky'
+- !lcc 'PS'
+- !lcsh 'Poets, American -- Kentucky'
+- !lcsh 'Kentucky -- Poetry'
+title: Kentucky Poems
+url: http://www.gutenberg.org/ebooks/36661
